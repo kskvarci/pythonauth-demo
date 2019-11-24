@@ -1,10 +1,6 @@
 {
-    "Resource": "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxx",
     "Tenant" : "yourtenant.onmicrosoft.com",
     "AuthorityHostUrl" : "https://login.microsoftonline.com",
     "UserName" : "uname@tenant.com",
-    "Password" : "yourpw",
-    "ClientId" : "xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxx",
-    "RGName" : "aks_cluster_rg",
-    "ClusterName" : "aks_cluster_name"
+    "Password" : "yourpw"
 }
