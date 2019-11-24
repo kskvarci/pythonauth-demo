@@ -24,7 +24,7 @@ authority_url = (sample_parameters['AuthorityHostUrl'] + '/' + sample_parameters
 turn_on_logging()
 
 context = adal.AuthenticationContext(
-    authority_url, api_version=None,
+    authority_url, api_version=1.0,
     )
 
 # fetch token using adal
